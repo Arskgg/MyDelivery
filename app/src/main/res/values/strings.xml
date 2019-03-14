@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDelivery</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="facebook_app_id">537107160112437</string>
+    <string name="facebook_login_protocol">fb537107160112437</string>
+</resources>
